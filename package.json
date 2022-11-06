@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "svelte": "^3.49.0",
-    "svelte-doric": "^1.8.3"
+    "svelte-doric": "^1.9.0"
   },
   "devDependencies": {
     "@axel669/rollup-copy-static": "^0.1.2",
